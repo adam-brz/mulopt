@@ -24,8 +24,8 @@ I figured out brute-force algorithm to solve this problem, which is implemented 
 ## Installation
 
 ```bash
-git clone https://github.com/adam-brz/matopt
-cd matopt
+git clone https://github.com/adam-brz/mulopt
+cd mulopt
 pip install .
 ```
 
